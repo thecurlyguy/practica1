@@ -15,7 +15,7 @@ public class POOP1_ANT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mundo con ANT");
+        System.out.println("Hola, mundo con ANT");
         System.out.println("Desde POO G3");
         int a = 3;
         Integer b=3;
